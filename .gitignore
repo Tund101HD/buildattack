@@ -1,0 +1,6 @@
+/.git/
+/BuildAttackPlugin.iml
+/target/
+/out/
+/.idea/
+/src/test/

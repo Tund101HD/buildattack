@@ -1,0 +1,29 @@
+main: me.tund.main.BuildAttack
+name: BuildAttack
+prefix: Build Attack
+author: Tund_101_HD
+version: 2.3.4 BETA
+api-version: 1.19
+description: Build-Attack 3 Plugin
+commands:
+  claim:
+    aliases: claims
+    description: Claim Command
+  unclaim:
+    description: Unclaim Command
+  clan:
+    aliases: clans
+    description: Clan Command
+  trust:
+    aliases: trusts
+    description: trust Command
+  untrust:
+    description: Untrust Command
+  eco:
+    aliases: economy
+    description: Economy Command
+  settings:
+    aliases: sett
+    description: Admin Command für die Settings
+
+
